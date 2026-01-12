@@ -1,0 +1,27 @@
+{
+  "name": "fruit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "body-parser": "^2.2.1",
+    "config": "^4.1.1",
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "lodash": "^4.17.21",
+    "mount-routes": "^1.0.8",
+    "multer": "^2.0.2",
+    "mysql": "^2.18.1",
+    "orm": "^8.0.1",
+    "passport": "^0.7.0",
+    "passport-http-bearer": "^1.0.1",
+    "passport-local": "^1.0.0"
+  }
+}
